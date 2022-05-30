@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Notification</string>
+    <!--    Notification Strings-->
+    <string name="CHANNEL_NAME">News Channel</string>
+    <string name="CHANNEL_ID">100</string>
+    <string name="CHANNEL_DESCRIPTION">News is information about current events. This may be provided through many different media: word of mouth, printing, postal systems, broadcasting, electronic communication, or through the testimony of observers and witnesses to events.</string>
 </resources>
